@@ -1,5 +1,5 @@
 <!-- Banner Image with Background Gradient -->
-![Banner]([https://media.licdn.com/dms/image/D4D16AQHULZt27eo1NA/profile-displaybackgroundimage-shrink_350_1400/0/1665585073431?e=1724889600&v=beta&t=7d4ehm4XCQ7rU-BlOQcKLYM1uDKwkndjin2yfwT_7ug)
+![Banner](https://media.licdn.com/dms/image/D4D16AQHULZt27eo1NA/profile-displaybackgroundimage-shrink_350_1400/0/1665585073431?e=1724889600&v=beta&t=7d4ehm4XCQ7rU-BlOQcKLYM1uDKwkndjin2yfwT_7ug)
 
 # Hi there, `You're Listening into Jeevan's Port! 👋
 
