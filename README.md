@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+Jeevan+Ebi's+GitHub+Profile!)
+![Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+Jeevan+Ebi's+GitHub+Profile!&bg=linear-gradient(135deg,%23f6d365%200%25,%23fda085%20100%25))
 
 # Hi there, You're Listening into Jeevan's Port! 👋
 
@@ -10,27 +10,32 @@ I'm enthusiastic about Backend Programming, Frontend Design, WebAPI, and New Tec
 
 ## 🔧 My Toolbox
 
+Programming & Scripting:
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
+Frameworks & Libraries:
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
+Databases & Engines:
 ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Elastic Search](https://img.shields.io/badge/-Elastic_Search-005571?style=flat&logo=elastic-search&logoColor=white)
 
+Other Tools and Technology:
 ![ELK Stack](https://img.shields.io/badge/-ELK_Stack-005571?style=flat&logo=elastic-stack&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/-Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Serilog](https://img.shields.io/badge/-Serilog-1E1E1E?style=flat&logo=serilog&logoColor=white)
 
+Design Tools:
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe_Premiere_Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/-Adobe_After_Effects-9999FF?style=flat&logo=adobe-after-effects&logoColor=white)
@@ -39,6 +44,7 @@ I'm enthusiastic about Backend Programming, Frontend Design, WebAPI, and New Tec
 ![XD](https://img.shields.io/badge/-XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white)
 ![Spark AR](https://img.shields.io/badge/-Spark_AR-FF61F6?style=flat&logo=spark-ar&logoColor=white)
 
+Operating Systems:
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
